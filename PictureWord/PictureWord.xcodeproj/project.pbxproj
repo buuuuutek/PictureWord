@@ -12,6 +12,7 @@
 		247A20E01FEA715F0041CACE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 247A20DE1FEA715F0041CACE /* Main.storyboard */; };
 		247A20E21FEA715F0041CACE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 247A20E11FEA715F0041CACE /* Assets.xcassets */; };
 		247A20E51FEA715F0041CACE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 247A20E31FEA715F0041CACE /* LaunchScreen.storyboard */; };
+		24BB8D8D20487ABE003409CD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 24BB8D8C20487ABE003409CD /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		247A20E11FEA715F0041CACE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		247A20E41FEA715F0041CACE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		247A20E61FEA715F0041CACE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24BB8D8C20487ABE003409CD /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		247A20CE1FEA715E0041CACE = {
 			isa = PBXGroup;
 			children = (
+				24BB8D8C20487ABE003409CD /* .gitignore */,
 				247A20D91FEA715F0041CACE /* PictureWord */,
 				247A20D81FEA715F0041CACE /* Products */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24BB8D8D20487ABE003409CD /* .gitignore in Resources */,
 				247A20E51FEA715F0041CACE /* LaunchScreen.storyboard in Resources */,
 				247A20E21FEA715F0041CACE /* Assets.xcassets in Resources */,
 				247A20E01FEA715F0041CACE /* Main.storyboard in Resources */,
@@ -297,6 +301,7 @@
 				247A20EB1FEA715F0041CACE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
